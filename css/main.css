@@ -393,7 +393,7 @@ th {
  *
  * License: http://www.myfonts.com/viewlicense?type=web&buildid=2888625
  *
- * © 2014 MyFonts Inc
+ * Â© 2014 MyFonts Inc
  **/
 /* @import must be at top of file, otherwise CSS will not work */
 @font-face {
@@ -670,20 +670,24 @@ td.options {
   text-transform: uppercase;
   letter-spacing: 0.6px;
   text-align: center;
-  padding: 4px;
-  padding-bottom: 2px;
+  padding: 3px;
+  padding-bottom: 0px;
   padding-top: 0px;
-  min-width: 50px;
+  min-width: 40px;
   font-weight: normal;
   white-space: nowrap;
-  border-bottom: 1px solid #dedede;
   color: #444;
 }
 td.controls {
   padding: 4px;
-  padding-top: 6px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   text-align: center;
   margin: 0px;
+  vertical-align: middle;
+}
+td.controls.tight {
+  padding: 0px;
 }
 table.header {
   background: #eee;
@@ -694,9 +698,18 @@ table.header {
   background: linear-gradient(top, #efefef 0%, #ddd 100%);
   border-bottom: 1px solid #333;
 }
-.div, .sep {
-  background-color: #ddd;
+.sep {
+  text-align: center;
+  width: 20px;
+  vertical-align: middle;
+}
+.divider {
   width: 1px;
+  height: 50px;
+  border-right: 1px dashed #c9c9c9;
+  margin-left: 10px;
+  margin-right: 10px;
+  vertical-align: middle;
 }
 table.controls {
   padding: 0px;
@@ -712,7 +725,7 @@ div.viewport {
   min-height: 800px;
   padding: 0px;
   background-color: #333; 
-  background-image: linear-gradient(0deg, transparent 24%, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0.1) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0.2) 76%, transparent 77%, transparent), linear-gradient(90deg, transparent 24%, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0.2) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0.2) 76%, transparent 77%, transparent);
+  background-image: linear-gradient(0deg, transparent 24%, rgba(255, 255, 255, 0.3) 25%, rgba(255, 255, 255, 0.3) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, 0.3) 75%, rgba(255, 255, 255, 0.3) 76%, transparent 77%, transparent), linear-gradient(90deg, transparent 24%, rgba(255, 255, 255, 0.3) 25%, rgba(255, 255, 255, 0.3) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, 0.3) 75%, rgba(255, 255, 255, 0.3) 76%, transparent 77%, transparent);
   background-size: 50px 50px;
   top: 113px;
   left: 21px;
@@ -720,6 +733,18 @@ div.viewport {
   background-position: 13px 13px;
   z-index: 10;
   cursor: crosshair;
+}
+div.viewport.y {
+  background-image: linear-gradient(90deg, transparent 24%, rgba(255, 255, 255, 0.3) 25%, rgba(255, 255, 255, 0.3) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, 0.3) 75%, rgba(255, 255, 255, 0.3) 76%, transparent 77%, transparent);
+}
+div.viewport.x {
+  background-image: linear-gradient(0deg, transparent 24%, rgba(255, 255, 255, 0.3) 25%, rgba(255, 255, 255, 0.3) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, 0.3) 75%, rgba(255, 255, 255, 0.3) 76%, transparent 77%, transparent);
+}
+div.viewport.none {
+  background-image: none;
+}
+div.viewport.all {
+  background-image: linear-gradient(0deg, transparent 24%, rgba(255, 255, 255, 0.3) 25%, rgba(255, 255, 255, 0.3) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, 0.3) 75%, rgba(255, 255, 255, 0.3) 76%, transparent 77%, transparent), linear-gradient(90deg, transparent 24%, rgba(255, 255, 255, 0.3) 25%, rgba(255, 255, 255, 0.3) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, 0.3) 75%, rgba(255, 255, 255, 0.3) 76%, transparent 77%, transparent);
 }
 #width, #height {
   text-align: center;
@@ -810,6 +835,11 @@ input[type=text] {
 #copy {
   position: absolute;
   z-index: 21;
+  width: 125px;
+  height: 35px;
+  text-align: center;
+  background-color: #333;
+  padding: 4px;
   color: #51d803;
   font-size: 0.7em;
   font-weight: bold;
@@ -819,11 +849,14 @@ input[type=text] {
   -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
   transform: rotate(-90deg);
   bottom: 40px;
-  right: -15px;
+  right: -44px;
+  border: 1px solid #000;
 }
 input[type=checkbox] {
   visibility: hidden;
 }
+.xcheck,
+.ycheck,
 .hidecheck,
 .exportcheck,
 .crosshairscheck,
@@ -848,6 +881,8 @@ input[type=checkbox] {
   border-radius: 50px;
   position: relative;
 }
+.xcheck label,
+.ycheck label,
 .hidecheck label,
 .exportcheck label,
 .crosshairscheck label,
@@ -872,6 +907,8 @@ input[type=checkbox] {
   background: linear-gradient(top, #666 0%, #333 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666', endColorstr='#333333',GradientType=0 );
 }
+.xcheck label:after,
+.ycheck label:after,
 .hidecheck label:after,
 .exportcheck label:after,
 .sitescheck label:after,
@@ -902,6 +939,8 @@ input[type=checkbox] {
   -moz-box-shadow: inset 0px 2px 3px white, 0px 1px 3px rgba(0,0,0,0.5);
   box-shadow: inset 0px 2px 3px white, 0px 1px 3px rgba(0,0,0,0.5);
 }
+.xcheck label:hover::after,
+.ycheck label:hover::after,
 .hidecheck label:hover::after,
 .exportcheck label:hover::after,
 .sitescheck label:hover::after,
@@ -915,6 +954,8 @@ input[type=checkbox] {
   opacity: 1;
   background: #399a00;
 }
+.xcheck input[type=checkbox]:checked + label:after,
+.ycheck input[type=checkbox]:checked + label:after,
 .hidecheck input[type=checkbox]:checked + label:after,
 .exportcheck input[type=checkbox]:checked + label:after,
 .sitescheck input[type=checkbox]:checked + label:after,
@@ -1003,7 +1044,7 @@ li a.label {
   left:34%;
   width:16px;
   height:22px;
-  top: 15px;
+  top: 10px;
   border:8px solid #51d803;
   border-width:0 6px;
   margin-top:-7px;
@@ -1018,7 +1059,7 @@ li a.label {
 /* PLAY
 ------------------------------------------------------------------------------*/
 .play-alt a:before {
-  top: 37px;
+  top: 33px;
   left: 38%;
   border: 8px solid transparent;
   border-width: 12px 16px;
@@ -1068,10 +1109,10 @@ input[type=search] {
   top: 93px;
 }
 h1 {
-  color: #006699;
+  color: #666;
   border-bottom: 1px solid #ccc;
-  padding-bottom: 5px;
-  margin-bottom: 10px;
+  padding-bottom: 4px;
+  margin-bottom: 4px;
   padding-top: 0px;
   margin-top: 10px;
   padding-left: 5px;

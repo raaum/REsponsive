@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <meta charset="utf-8">
@@ -6,11 +7,11 @@
 <title>REsponsive</title>
 
 <link rel="stylesheet" type="text/css" href="css/main.css">
-<link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css">
+<link rel="stylesheet" type="text/css" href="css/dataTables.css">
 
 <script type="text/javascript" language="javascript" src="js/lib/jquery/dist/jquery.min.js"></script>
 <script type="text/javascript" language="javascript" src="js/simple-slider.js"></script>
-<script type="text/javascript" language="javascript" src="js/jquery.dataTables.js"></script>
+<script type="text/javascript" language="javascript" src="js/dataTables.js"></script>
 <script type="text/javascript" language="javascript" src="js/responsive.js"></script>
 
 </head>
@@ -22,21 +23,21 @@
   <!-- DEVICES PANEL -->
   <div id="devices" class="devices" style="display: none; text-align: left; padding: 15px;">
     <section>
-    	<h1>Devices</h1>
+      <h1>Devices</h1>
       <center>
-      	<div style="padding: 5px;">
-					<table cellpadding="0" cellspacing="0" border="0" class="display" id="listings">
-						<thead>
-							<tr>
-								<th style="text-align: left; width: 275px;">DEVICE</th>
-								<th>platform</th>
-								<th>os</th>
-								<th style="text-align: left; width: 55px;">DISPLAY</th>
-								<th>height</th>
-								<th>date</th>
-								</tr>
-						</thead>
-					</table>  
+        <div style="padding: 5px;">
+          <table cellpadding="0" cellspacing="0" border="0" class="display" id="listings">
+            <thead>
+              <tr>
+                <th style="text-align: left; width: 275px;">DEVICE</th>
+                <th>platform</th>
+                <th>os</th>
+                <th style="text-align: left; width: 55px;">DISPLAY</th>
+                <th>height</th>
+                <th>date</th>
+                </tr>
+            </thead>
+          </table>  
         </div>    
       </center>
     </section><div id="closedevices">x</div>
@@ -45,17 +46,17 @@
   <!-- SITES PANEL -->
   <div id="sites" class="sites" style="display: none; text-align: left; padding: 15px;">
     <section>
-    	<h1>Sites</h1>
+      <h1>Sites</h1>
       <center>
-      	<div style="padding: 5px;">
-        	<table cellpadding="0" cellspacing="0" border="0" class="display" id="examples">
-          	<thead>
-            	<tr>
-              	<th style="text-align: left; width: 50%;">NAME</th>
-              	<th style="text-align: left; width: 50%;">URL</th>
-              	</tr>
-          	</thead>
-        	</table>
+        <div style="padding: 5px;">
+          <table cellpadding="0" cellspacing="0" border="0" class="display" id="examples">
+            <thead>
+              <tr>
+                <th style="text-align: left; width: 50%;">NAME</th>
+                <th style="text-align: left; width: 50%;">URL</th>
+                </tr>
+            </thead>
+          </table>
         </div>      
       </center>
     </section><div id="closesites">x</div>
@@ -66,24 +67,24 @@
     <section>
     <h1>Export</h1>
     <div style="padding: 15px;">
-		<form id="formexport" method="get" action="export/">
-		<div class="formfield">url</div>
-		<div class="forminput"><input type="text" id="output-url" name="url" style="width: 100%;" value="%url%"></div>
-		<div class="formfield">width</div>
-		<div class="forminput"><input type="text" id="output-width" name="width" style="width: 150px;" value="%width%"></div>
-		<div class="formfield">height</div>
-		<div class="forminput"><input type="text" id="output-height" name="height" style="width: 150px;" value="%height%"></div>
-		<div class="formfield">output height</div>
-		<div class="forminput">
-		<input type="radio" name="type" value="full"> &nbsp;fully scrolled page<br>
-		<input type="radio" name="type" value="crop" checked> &nbsp;cropped at viewport</div>
-		
-		<div class="formsubmit"><input type="button" id="cancelexport" class="button" value="cancel">&nbsp;&nbsp;<input id="exported" type="submit" class="submit" value="export"></div>
-		</form><br><br>
-		
-		<div style="font-size: 0.8em; line-height: 1.3em; font-weight: bold; padding: 10px; background: #efefef; border: 1px dashed #ccc;">
-		Click EXPORT to generate a PNG screenshot based on the information provided.  The file should automatically download within 30 seconds.</div>
-		</div>
+    <form id="formexport" method="get" action="export/">
+    <div class="formfield">url</div>
+    <div class="forminput"><input type="text" id="output-url" name="url" style="width: 100%;" value="%url%"></div>
+    <div class="formfield">width</div>
+    <div class="forminput"><input type="text" id="output-width" name="width" style="width: 150px;" value="%width%"></div>
+    <div class="formfield">height</div>
+    <div class="forminput"><input type="text" id="output-height" name="height" style="width: 150px;" value="%height%"></div>
+    <div class="formfield">output height</div>
+    <div class="forminput">
+    <input type="radio" name="type" value="full"> &nbsp;fully scrolled page<br>
+    <input type="radio" name="type" value="crop" checked> &nbsp;cropped at viewport</div>
+    
+    <div class="formsubmit"><input type="button" id="cancelexport" class="button" value="cancel">&nbsp;&nbsp;<input id="exported" type="submit" class="submit" value="export"></div>
+    </form><br><br>
+    
+    <div style="font-size: 0.8em; line-height: 1.3em; font-weight: bold; padding: 10px; background: #efefef; border: 1px dashed #ccc;">
+    Click EXPORT to generate a PNG screenshot based on the information provided.  The file should automatically download within 30 seconds.</div>
+    </div>
 
     </section>
     <div id="closeexport">x</div>
@@ -92,42 +93,52 @@
 <form>
   <table border=0 cellspacing=0 cellpadding=0 width="100%" class="header">
     <tr>
-      <td style="vertical-align: middle; margin: 0px; padding: 0px; background-color: #46bc01;"><img src="images/logo.png" border=0 alt="REsponsive" width=85 height=85></td>
+      <td style="vertical-align: middle; margin: 0px; padding: 0px; background-color: #46bc01; width: 1px;"><img src="images/logo.png" border=0 alt="REsponsive" width=85 height=85></td>
       <td style="padding-right: 20px; padding-left: 20px;">
         <table border=0 class="controls">
           <tr>
             <td class="options" nowrap>url</td>
             <td class="options" nowrap>viewport</td>
-            <td class="options" nowrap>auto</td>
+            <td rowspan="2" class="sep"><div class="divider"></div></td>
             <td class="options" nowrap>width</td>
             <td class="options" nowrap>height</td>
-            <td class="options" nowrap>gridlines</td>
             <td class="options" nowrap>opacity</td>
+            <td rowspan="2" class="sep"><div class="divider"></div></td>
+            <td class="options" nowrap>auto</td>
+            <td rowspan="2" class="sep"><div class="divider"></div></td>
+            <td class="options" nowrap>grid size</td>
+            <td class="options" nowrap>x</td>
+            <td class="options" nowrap>y</td>
+            <td rowspan="2" class="sep"><div class="divider"></div></td>
             <td class="options" nowrap>flip</td>
             <td class="options" nowrap>hide</td>
+            <td rowspan="2" class="sep"><div class="divider"></div></td>
             <td class="options" nowrap>rulers</td>
             <td class="options" nowrap>x/y</td>
             <td class="options" nowrap>guides</td>
-            <td class="options" nowrap>sites</td>
+            <td rowspan="2" class="sep"><div class="divider"></div></td>
             <td class="options" nowrap>devices</td>
+            <td class="options" nowrap>sites</td>
             <td class="options" nowrap>export</td>
             <td></td>
           </tr>
           <tr>
             <td class="controls" style="padding-right: 5px;"><input type="text" id="url" name="url" style="width: 240px; height: 33px; font-size: 1em;" value="http://www.leodislager.com"></td>
-            <td class="controls" nowrap><input type=text id="width" name="width" value="325"> x <input type=text id="height" name="height" value="650"></td>
-            <td class="controls"><ul><li id="play" class="play-alt"><a href="#" class="label">play</a></li> <li id="pause" class="pause-alt" style="display: none;"><a href="#" class="label">pause</a></li></ul></td>
-            <td class="controls"><input type="text" id="slider" data-slider="true" data-slider-range="100,1500" data-slider-step="5" data-slider-snap="true" data-slider-highlight="true" value="600"></td>
-            <td class="controls"><input type="text" id="slider-height" data-slider="true" data-slider-range="100,1500" data-slider-step="5" data-slider-snap="true" data-slider-highlight="true" value="800"></td>
-            <td class="controls"><input type="text" id="gridlines" data-slider="true" data-slider-range="2,100" data-slider-step="4" data-slider-snap="true" data-slider-highlight="true" value="30"></td>
-            <td class="controls"><input type="text" id="opacity" data-slider="true" data-slider-range="0,1" data-slider-highlight="true" value="1"></td>      
+            <td class="controls" nowrap><input type=text id="width" name="width" value="550"> x <input type=text id="height" name="height" value="800"></td>
+            <td class="controls tight"><input type="text" id="slider" data-slider="true" data-slider-range="100,1500" data-slider-step="5" data-slider-snap="true" data-slider-highlight="true" value="600"></td>
+            <td class="controls tight"><input type="text" id="slider-height" data-slider="true" data-slider-range="100,1500" data-slider-step="5" data-slider-snap="true" data-slider-highlight="true" value="800"></td>
+            <td class="controls tight"><input type="text" id="opacity" data-slider="true" data-slider-range="0,1" data-slider-highlight="true" value="1"></td>      
+            <td class="controls tight"><ul><li id="play" class="play-alt"><a href="#" class="label">play</a></li> <li id="pause" class="pause-alt" style="display: none;"><a href="#" class="label">pause</a></li></ul></td>
+            <td class="controls tight"><input type="text" id="gridlines" data-slider="true" data-slider-range="2,200" data-slider-step="4" data-slider-snap="true" data-slider-highlight="true" value="30"></td>
+            <td class="controls" tight><div class="xcheck"><input type="checkbox" id="xcheck" name="xcheck" value="1" checked><label for="xcheck"></label></div></td>
+            <td class="controls" tight><div class="ycheck"><input type="checkbox" id="ycheck" name="ycheck" value="1" checked><label for="ycheck"></label></div></td>
             <td class="controls"><div class="orientcheck"><input type="checkbox" id="orientcheck" name="orientation" value="1"><label for="orientcheck"></label></div></td>
             <td class="controls"><div class="hidecheck"><input type="checkbox" id="hidecheck" name="hide" value="1"><label for="hidecheck"></label></div></td>
             <td class="controls"><div class="rulercheck"><input type="checkbox" id="rulercheck" name="ruler" value="1" checked><label for="rulercheck"></label></div></td>
             <td class="controls"><div class="crosshairscheck"><input type="checkbox" id="crosshairscheck" name="crosshairs" value="1"><label for="crosshairscheck"></label></div></td>
             <td class="controls"><div class="guidescheck"><input type="checkbox" id="guidescheck" name="guides" value="1"><label for="guidescheck"></label></div></td>
-            <td class="controls"><div class="sitescheck"><input type="checkbox" id="sitescheck" name="sites" value="1"><label for="sitescheck"></label></div></td>
             <td class="controls"><div class="devicescheck"><input type="checkbox" id="devicescheck" name="devices" value="1"><label for="devicescheck"></label></div></td>
+            <td class="controls"><div class="sitescheck"><input type="checkbox" id="sitescheck" name="sites" value="1"><label for="sitescheck"></label></div></td>
             <td class="controls"><div class="exportcheck"><input type="checkbox" id="exportcheck" name="export" value="1"><label for="exportcheck"></label></div></td>
             <td width="100%"></td>
           </tr>
@@ -145,14 +156,14 @@
   <div class="ruler"></div>
   <div class="viewport">
 
-	<div id="infopanel" class="bseffect">
-		<div id="infowh"></div>
-		<div id="infocrosshairs"></div>
-		<div id="infogridlines"></div>
-		<div id="infoopacity"></div>
-	</div>
+  <div id="infopanel" class="bseffect">
+    <div id="infowh"></div>
+    <div id="infocrosshairs"></div>
+    <div id="infogridlines"></div>
+    <div id="infoopacity"></div>
+  </div>
 
-  <iframe id="website" frameborder="0" src="http://www.leodislager.com" scrollbars="auto" width="325" height="650"></iframe>
+  <iframe id="website" frameborder="0" src="http://www.leodislager.com" scrollbars="auto" width="550" height="800"></iframe>
 
   <div id="crosshairs" class="hide-cursor">
     <div id="cross-h" class="hair"><div class="crosshairs"></div></div>
