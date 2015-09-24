@@ -1,0 +1,2292 @@
+{
+"data": [
+	{
+		"device":"Acer Iconia Tab A1-810",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"768",
+		"height":"1024",
+		"date":"2013-05"
+	},
+	{
+		"device":"Acer Iconia Tab A100",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"800",
+		"height":"1280",
+		"date":"2011-04"
+	},
+	{
+		"device":"Acer Iconia Tab A101",
+		"platform":"Android",
+		"os":"3.2.1",
+		"width":"600",
+		"height":"1024",
+		"date":"2011-05"
+	},
+	{
+		"device":"Acer Iconia Tab A200",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"800",
+		"height":"1280",
+		"date":"2012-01"
+	},
+	{
+		"device":"Acer Iconia Tab A500",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"648",
+		"height":"1280",
+		"date":"2011-04"
+	},
+	{
+		"device":"Acer Iconia Tab A501",
+		"platform":"Android",
+		"os":"3.2",
+		"width":"800",
+		"height":"1280",
+		"date":"2011-04"
+	},
+	{
+		"device":"ACER Liquid E2",
+		"platform":"Android",
+		"os":"4.2.1",
+		"width":"360",
+		"height":"640",
+		"date":"2013-05"
+	},
+	{
+		"device":"Ainol Novo 7 Elf 2",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"496",
+		"height":"1024",
+		"date":"2012-06"
+	},
+	{
+		"device":"Alcatel One Touch Idol X",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"480",
+		"height":"800",
+		"date":"2013-07"
+	},
+	{
+		"device":"Alcatel One Touch T10",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"480",
+		"height":"800",
+		"date":"2013-03"
+	},
+	{
+		"device":"Alcatel One Touch 903",
+		"platform":"Android",
+		"os":"2.3.6",
+		"width":"320",
+		"height":"427",
+		"date":"2012-08"
+	},
+	{
+		"device":"Alcatel (Vodafone) Smart Mini 875",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"320",
+		"height":"480",
+		"date":"2013-07"
+	},
+	{
+		"device":"Amicroe 7 TouchTAB II",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"480",
+		"height":"800",
+		"date":"2013-01"
+	},
+	{
+		"device":"Amicroe 9.7 TouchTAB IV",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"768",
+		"height":"1024",
+		"date":"2013-05"
+	},
+	{
+		"device":"Archos 70b (it2)",
+		"platform":"Android",
+		"os":"3.2.1",
+		"width":"600",
+		"height":"1024",
+		"date":"2012-02"
+	},
+	{
+		"device":"Archos 80G9",
+		"platform":"Android",
+		"os":"3.2",
+		"width":"768",
+		"height":"1024",
+		"date":"2011-09"
+	},
+	{
+		"device":"Arnova 10b G3",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"600",
+		"height":"1024",
+		"date":"2012-05"
+	},
+	{
+		"device":"Arnova 7 G2",
+		"platform":"Android",
+		"os":"2.3.1",
+		"width":"480",
+		"height":"800",
+		"date":"2011-09"
+	},
+	{
+		"device":"Arnova 7F G3",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"640",
+		"height":"1067",
+		"date":"2012-11"
+	},
+	{
+		"device":"Arnova 8C G3",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"800",
+		"height":"1067",
+		"date":"2012-11"
+	},
+	{
+		"device":"ASUS B1-A71",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"600",
+		"height":"1024",
+		"date":"2013-01"
+	},
+	{
+		"device":"ASUS Fonepad",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"601",
+		"height":"962",
+		"date":"2013-04"
+	},
+	{
+		"device":"ASUS MeMo Pad ME172V",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"600",
+		"height":"1024",
+		"date":"2013-01"
+	},
+	{
+		"device":"ASUS MeMo Pad FHD10/ME302C 10.1",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"800",
+		"height":"1280",
+		"date":"2013-08"
+	},
+	{
+		"device":"ASUS Padfone",
+		"platform":"Android",
+		"os":"4.0",
+		"width":"800",
+		"height":"1128",
+		"date":"2012-06"
+	},
+	{
+		"device":"ASUS Transformer Pad TF300T",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"800",
+		"height":"1280",
+		"date":"2012-04"
+	},
+	{
+		"device":"ASUS Transformer TF101",
+		"platform":"Android",
+		"os":"3.1",
+		"width":"800",
+		"height":"1280",
+		"date":"2011-04"
+	},
+	{
+		"device":"ASUS Vivo",
+		"platform":"Windows RT",
+		"os":"8.0",
+		"width":"768",
+		"height":"1366",
+		"date":"2012-11"
+	},
+	{
+		"device":"Barnes &amp; Noble Nook HD",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"600",
+		"height":"960",
+		"date":"2012-11"
+	},
+	{
+		"device":"BAUHN AMID-972XS",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"768",
+		"height":"1024",
+		"date":"2012-09"
+	},
+	{
+		"device":"BAUHN AMID-9743G",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"768",
+		"height":"1024",
+		"date":"2013-02"
+	},
+	{
+		"device":"BAUHN ASP-5000H",
+		"platform":"Android",
+		"os":"4.2",
+		"width":"360",
+		"height":"640",
+		"date":"2013-09"
+	},
+	{
+		"device":"BlackBerry 9520",
+		"platform":"BlackBerry OS",
+		"os":"5",
+		"width":"345",
+		"height":"691",
+		"date":"2009-11"
+	},
+	{
+		"device":"BlackBerry Bold 9000",
+		"platform":"BlackBerry OS",
+		"os":"4.0.0.223",
+		"width":"480",
+		"height":"-",
+		"date":"2008-08"
+	},
+	{
+		"device":"BlackBerry Bold 9780",
+		"platform":"BlackBerry OS",
+		"os":"6.0.0.110",
+		"width":"480",
+		"height":"-",
+		"date":"2010-11"
+	},
+	{
+		"device":"BlackBerry Bold 9790",
+		"platform":"BlackBerry OS",
+		"os":"7.0.0.528",
+		"width":"320",
+		"height":"-",
+		"date":"2011-12"
+	},
+	{
+		"device":"BlackBerry Bold 9900",
+		"platform":"BlackBerry OS",
+		"os":"7.1.0.342",
+		"width":"356",
+		"height":"-",
+		"date":"2011-08"
+	},
+	{
+		"device":"BlackBerry Curve 9300",
+		"platform":"BlackBerry OS",
+		"os":"5.0.0.716",
+		"width":"311",
+		"height":"-",
+		"date":"2010-08"
+	},
+	{
+		"device":"BlackBerry Curve 9300",
+		"platform":"BlackBerry OS",
+		"os":"6.0.0.448",
+		"width":"320",
+		"height":"-",
+		"date":"2010-08"
+	},
+	{
+		"device":"BlackBerry Curve 9320",
+		"platform":"BlackBerry OS",
+		"os":"7.1.0.569",
+		"width":"320",
+		"height":"-",
+		"date":"2010-05"
+	},
+	{
+		"device":"BlackBerry Curve 9360",
+		"platform":"BlackBerry OS",
+		"os":"7.0.0.530",
+		"width":"320",
+		"height":"-",
+		"date":"2011-08"
+	},
+	{
+		"device":"BlackBerry Curve 9380",
+		"platform":"BlackBerry OS",
+		"os":"7.0.0.513",
+		"width":"320",
+		"height":"406",
+		"date":"2011-12"
+	},
+	{
+		"device":"BlackBerry PlayBook",
+		"platform":"Blackberry Tablet OS",
+		"os":"2.1.0",
+		"width":"600",
+		"height":"1024",
+		"date":"2011-04"
+	},
+	{
+		"device":"BlackBerry Torch 9800",
+		"platform":"BlackBerry OS",
+		"os":"6.0.0.353",
+		"width":"360",
+		"height":"480",
+		"date":"2010-08"
+	},
+	{
+		"device":"BlackBerry Torch 9810",
+		"platform":"BlackBerry OS",
+		"os":"7.0.0.296",
+		"width":"320",
+		"height":"-",
+		"date":"2011-08"
+	},
+	{
+		"device":"BlackBerry Torch 9860",
+		"platform":"BlackBerry OS",
+		"os":"7.0.0.579",
+		"width":"320",
+		"height":"505",
+		"date":"2011-09"
+	},
+	{
+		"device":"BlackBerry Q10",
+		"platform":"BlackBerry OS",
+		"os":"10.1.0.1910",
+		"width":"346",
+		"height":"-",
+		"date":"2013-04"
+	},
+	{
+		"device":"BlackBerry Z10",
+		"platform":"BlackBerry OS",
+		"os":"10.0.10.690",
+		"width":"342",
+		"height":"570",
+		"date":"2013-02"
+	},
+	{
+		"device":"Dell Venue 8",
+		"platform":"Windows 8",
+		"os":"8.1",
+		"width":"800",
+		"height":"1280",
+		"date":"10-2013"
+	},
+	{
+		"device":"Galaxy Nexus",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"360",
+		"height":"598",
+		"date":"2011-11"
+	},
+	{
+		"device":"HP Slate 7 2800",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"600",
+		"height":"1024",
+		"date":"2013-06"
+	},
+	{
+		"device":"HP Slate 21",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"1920",
+		"height":"NA",
+		"date":"2013-10"
+	},
+	{
+		"device":"HP Touchpad",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"768",
+		"height":"1024",
+		"date":"2011-07"
+	},
+	{
+		"device":"HP Touchpad",
+		"platform":"webOS",
+		"os":"3.0",
+		"width":"768",
+		"height":"1024",
+		"date":"2011-07"
+	},
+	{
+		"device":"HP Veer",
+		"platform":"WebOS",
+		"os":"2.1.1",
+		"width":"320",
+		"height":"545",
+		"date":"2011-06"
+	},
+	{
+		"device":"HTC 7 Mozart",
+		"platform":"WP7",
+		"os":"7.5",
+		"width":"320",
+		"height":"480",
+		"date":"2010-10"
+	},
+	{
+		"device":"HTC 7 Trophy",
+		"platform":"WP7",
+		"os":"7.5",
+		"width":"320",
+		"height":"480",
+		"date":"2010-10"
+	},
+	{
+		"device":"HTC A620b",
+		"platform":"WP8",
+		"os":"8.0",
+		"width":"320",
+		"height":"480",
+		"date":"2013-01"
+	},
+	{
+		"device":"HTC Desire",
+		"platform":"Android",
+		"os":"2.3.3",
+		"width":"320",
+		"height":"533",
+		"date":"2010-03"
+	},
+	{
+		"device":"HTC Desire C",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"320",
+		"height":"480",
+		"date":"2012-06"
+	},
+	{
+		"device":"HTC Desire HD",
+		"platform":"Android",
+		"os":"2.3.5",
+		"width":"320",
+		"height":"533",
+		"date":"2010-10"
+	},
+	{
+		"device":"HTC Desire S",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"320",
+		"height":"533",
+		"date":"2011-03"
+	},
+	{
+		"device":"HTC Desire X",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"320",
+		"height":"533",
+		"date":"2012-10"
+	},
+	{
+		"device":"HTC Desire 700",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"360",
+		"height":"640",
+		"date":"2014-01"
+	},
+	{
+		"device":"HTC Desire Z (Vision)",
+		"platform":"Android",
+		"os":"2.2",
+		"width":"480",
+		"height":"800",
+		"date":"2010-11"
+	},
+	{
+		"device":"HTC Droid Eris",
+		"platform":"Android",
+		"os":"2.1",
+		"width":"320",
+		"height":"480",
+		"date":"2009-11"
+	},
+	{
+		"device":"HTC Evo 3D",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"540",
+		"height":"960",
+		"date":"2011-07"
+	},
+	{
+		"device":"HTC Incredible 2",
+		"platform":"Android ",
+		"os":"2.3.4",
+		"width":"320",
+		"height":"533",
+		"date":"2011-04"
+	},
+	{
+		"device":"HTC Legend",
+		"platform":"Android",
+		"os":"2.2",
+		"width":"320",
+		"height":"480",
+		"date":"2010-03"
+	},
+	{
+		"device":"HTC MyTouch Slide 4G",
+		"platform":"Android",
+		"os":"2.3.4",
+		"width":"320",
+		"height":"533",
+		"date":"2011-07"
+	},
+	{
+		"device":"HTC One",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"360",
+		"height":"640",
+		"date":"2013-03"
+	},
+	{
+		"device":"HTC One Mini",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"360",
+		"height":"640",
+		"date":"2013-07"
+	},
+	{
+		"device":"HTC One S",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"360",
+		"height":"640",
+		"date":"2012-04"
+	},
+	{
+		"device":"HTC One SV",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"320",
+		"height":"533",
+		"date":"2012-12"
+	},
+	{
+		"device":"HTC One V",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"320",
+		"height":"533",
+		"date":"2012-04"
+	},
+	{
+		"device":"HTC One X",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"360",
+		"height":"640",
+		"date":"2012-05"
+	},
+	{
+		"device":"HTC One X+",
+		"platform":"Android",
+		"os":"4.3",
+		"width":"360",
+		"height":"640",
+		"date":"2012-11"
+	},
+	{
+		"device":"HTC One XL",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"360",
+		"height":"640",
+		"date":"2012-05"
+	},
+	{
+		"device":"HTC Rio 8S",
+		"platform":"WP8",
+		"os":"8.0",
+		"width":"320",
+		"height":"480",
+		"date":"2012-12"
+	},
+	{
+		"device":"HTC Sensation XL",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"360",
+		"height":"640",
+		"date":"2011-11"
+	},
+	{
+		"device":"HTC Titan II/4G",
+		"platform":"WP7",
+		"os":"7.5",
+		"width":"320",
+		"height":"480",
+		"date":"2012-04"
+	},
+	{
+		"device":"HTC Velocity 4G",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"360",
+		"height":"640",
+		"date":"2012-11"
+	},
+	{
+		"device":"HTC Wildfire A3333",
+		"platform":"Android",
+		"os":"2.2.1",
+		"width":"267",
+		"height":"356",
+		"date":"2010-05"
+	},
+	{
+		"device":"HTC Wildfire S",
+		"platform":"Android",
+		"os":"2.3.3",
+		"width":"320",
+		"height":"480",
+		"date":"2011-05"
+	},
+	{
+		"device":"HTC Windows Phone 8S",
+		"platform":"WP8",
+		"os":"8.0",
+		"width":"320",
+		"height":"480",
+		"date":"2012-11"
+	},
+	{
+		"device":"HTC Windows Phone 8X (C625b)",
+		"platform":"WP8",
+		"os":"8.0",
+		"width":"320",
+		"height":"480",
+		"date":"2012-11"
+	},
+	{
+		"device":"Huawei Ascend G510",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"320",
+		"height":"569",
+		"date":"2013-04"
+	},
+	{
+		"device":"Huawei Ascend Mate",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"480",
+		"height":"813",
+		"date":"2013-03"
+	},
+	{
+		"device":"Huawei U8650 Sonic",
+		"platform":"Android",
+		"os":"2.3.3",
+		"width":"320",
+		"height":"480",
+		"date":"2011-06"
+	},
+	{
+		"device":"Huawei U8860",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"320",
+		"height":"544",
+		"date":"2011-12"
+	},
+	{
+		"device":"Huawei Y300-0151",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"320",
+		"height":"533",
+		"date":"2013-03"
+	},
+	{
+		"device":"iPad",
+		"platform":"iOS",
+		"os":"5.0.1",
+		"width":"768",
+		"height":"1024",
+		"date":"2010-03"
+	},
+	{
+		"device":"iPad 2",
+		"platform":"iOS",
+		"os":"5.0.1",
+		"width":"768",
+		"height":"1024",
+		"date":"2011-03"
+	},
+	{
+		"device":"iPad 3",
+		"platform":"iOS",
+		"os":"5.1.1",
+		"width":"768",
+		"height":"1024",
+		"date":"2012-03"
+	},
+	{
+		"device":"iPad Air",
+		"platform":"iOS",
+		"os":"7.0.3",
+		"width":"768",
+		"height":"1024",
+		"date":"2013-10"
+	},
+	{
+		"device":"iPad Mini",
+		"platform":"iOS",
+		"os":"6.0.1",
+		"width":"768",
+		"height":"1024",
+		"date":"2012-11"
+	},
+	{
+		"device":"iPhone",
+		"platform":"iOS",
+		"os":"3.1.3",
+		"width":"320",
+		"height":"480",
+		"date":"2007-06"
+	},
+	{
+		"device":"iPhone 3G",
+		"platform":"iOS",
+		"os":"4.2.1",
+		"width":"320",
+		"height":"480",
+		"date":"2008-07"
+	},
+	{
+		"device":"iPhone 3GS",
+		"platform":"iOS",
+		"os":"6.0a2",
+		"width":"320",
+		"height":"480",
+		"date":"2009-06"
+	},
+	{
+		"device":"iPhone 4",
+		"platform":"iOS",
+		"os":"5.1.1",
+		"width":"320",
+		"height":"480",
+		"date":"2010-06"
+	},
+	{
+		"device":"iPhone 4S",
+		"platform":"iOS",
+		"os":"4.3.5",
+		"width":"320",
+		"height":"480",
+		"date":"2011-10"
+	},
+	{
+		"device":"iPhone 5",
+		"platform":"iOS",
+		"os":"6.0",
+		"width":"320",
+		"height":"568",
+		"date":"2012-09"
+	},
+	{
+		"device":"iPhone 5c",
+		"platform":"iOS",
+		"os":"7.0",
+		"width":"320",
+		"height":"568",
+		"date":"2013-09"
+	},
+	{
+		"device":"iPhone 5s",
+		"platform":"iOS",
+		"os":"7.0",
+		"width":"320",
+		"height":"568",
+		"date":"2013-09"
+	},
+	{
+		"device":"iPhone 6",
+		"platform":"iOS",
+		"os":"8.0",
+		"width":"375",
+		"height":"667",
+		"date":"2014-09"
+	},
+	{
+		"device":"iPhone 6 Plus",
+		"platform":"iOS",
+		"os":"8.0",
+		"width":"414",
+		"height":"736",
+		"date":"2014-09"
+	},
+	{
+		"device":"iPod Touch 4th Gen",
+		"platform":"iOS",
+		"os":"5.0.1",
+		"width":"320",
+		"height":"480",
+		"date":"2010-09"
+	},
+	{
+		"device":"iPod Touch 5th Gen",
+		"platform":"iOS",
+		"os":"6.0",
+		"width":"320",
+		"height":"568",
+		"date":"2012-10"
+	},
+	{
+		"device":"Kindle 3",
+		"platform":"Kindle",
+		"os":"3.3",
+		"width":"600",
+		"height":"-",
+		"date":"2010-08"
+	},
+	{
+		"device":"Kindle Fire 2",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"600",
+		"height":"963",
+		"date":"2011-11"
+	},
+	{
+		"device":"Kindle Fire HD",
+		"platform":"Android",
+		"os":"4",
+		"width":"533",
+		"height":"801",
+		"date":"2012-09"
+	},
+	{
+		"device":"Kindle Fire HD 8.9",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"800",
+		"height":"1220",
+		"date":"2012-10"
+	},
+	{
+		"device":"Kindle Paperwhite",
+		"platform":"Kindle",
+		"os":"5",
+		"width":"758",
+		"height":"-",
+		"date":"2012-10"
+	},
+	{
+		"device":"Kobo eReader Touch",
+		"platform":"Android",
+		"os":"2.0.0",
+		"width":"600",
+		"height":"-",
+		"date":"2011-06"
+	},
+	{
+		"device":"Kogan 42&quot; Smart 3D LED TV",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"-",
+		"height":"1280",
+		"date":"2013-07"
+	},
+	{
+		"device":"Lenovo IdeaTab A1000",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"600",
+		"height":"1024",
+		"date":"2013-05"
+	},
+	{
+		"device":"Lenovo IdeaTab S6000",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"800",
+		"height":"1280",
+		"date":"2013-06"
+	},
+	{
+		"device":"Lenovo Yoga Tablet 8",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"602",
+		"height":"962",
+		"date":"2013-10"
+	},
+	{
+		"device":"Lenovo Yoga Tablet 10",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"800",
+		"height":"1280",
+		"date":"2013-11"
+	},
+	{
+		"device":"LG 55LW6500 TV",
+		"platform":"Proprietary (TV)",
+		"os":"5.00.07",
+		"width":"-",
+		"height":"1280",
+		"date":"2011-03"
+	},
+	{
+		"device":"LG Ally",
+		"platform":"Android",
+		"os":"2.2.2",
+		"width":"320",
+		"height":"533",
+		"date":"2010-04"
+	},
+	{
+		"device":"LG G2",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"360",
+		"height":"598",
+		"date":"2013-09"
+	},
+	{
+		"device":"LG Optimus 2x",
+		"platform":"Android",
+		"os":"2.3.7",
+		"width":"320",
+		"height":"533",
+		"date":"2011-02"
+	},
+	{
+		"device":"LG Optimus Black P970",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"320",
+		"height":"533",
+		"date":"2011-05"
+	},
+	{
+		"device":"LG Optimus G E975",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"384",
+		"height":"640",
+		"date":"2012-11"
+	},
+	{
+		"device":"LG Optimus L3 E400",
+		"platform":"Android",
+		"os":"2.3.6",
+		"width":"320",
+		"height":"427",
+		"date":"2012-02"
+	},
+	{
+		"device":"LG Optimus L3 II E425f",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"320",
+		"height":"427",
+		"date":"2013-04"
+	},
+	{
+		"device":"LG Optimus L7 P700",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"320",
+		"height":"533",
+		"date":"2012-05"
+	},
+	{
+		"device":"LG Optimus L9 P760",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"360",
+		"height":"640",
+		"date":"2012-11"
+	},
+	{
+		"device":"LG Optimus Pad V900",
+		"platform":"Android",
+		"os":"3.0.1",
+		"width":"768",
+		"height":"1280",
+		"date":"2011-05"
+	},
+	{
+		"device":"LG Viewty KU990",
+		"platform":"Proprietary (Java)",
+		"os":"1.2",
+		"width":"240",
+		"height":"400",
+		"date":"2008-10"
+	},
+	{
+		"device":"Microsoft Surface",
+		"platform":"Windows RT",
+		"os":"8.0",
+		"width":"768",
+		"height":"1366",
+		"date":"2012-11"
+	},
+	{
+		"device":"Microsoft Surface Pro",
+		"platform":"Windows 8",
+		"os":"8.0",
+		"width":"720",
+		"height":"1280",
+		"date":"2012-11"
+	},
+	{
+		"device":"Motorola Defy",
+		"platform":"Android",
+		"os":"2.3.4",
+		"width":"320",
+		"height":"569",
+		"date":"2010-10"
+	},
+	{
+		"device":"Motorola Defy Mini",
+		"platform":"Android",
+		"os":"2.3.6",
+		"width":"320",
+		"height":"480",
+		"date":"2012-01"
+	},
+	{
+		"device":"Motorola Droid Bionic",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"360",
+		"height":"640",
+		"date":"2011-09"
+	},
+	{
+		"device":"Motorola Droid Razr",
+		"platform":"Android",
+		"os":"2.3.6",
+		"width":"360",
+		"height":"640",
+		"date":"2011-11"
+	},
+	{
+		"device":"Motorola Droid 3",
+		"platform":"Android",
+		"os":"2.3",
+		"width":"360",
+		"height":"559",
+		"date":"2011-07"
+	},
+	{
+		"device":"Motorola Electrify 2",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"360",
+		"height":"598",
+		"date":"2012-07"
+	},
+	{
+		"device":"Motorola Fire XT",
+		"platform":"Android",
+		"os":"2.3.5",
+		"width":"320",
+		"height":"480",
+		"date":"2011-09"
+	},
+	{
+		"device":"Motorola FlipOut",
+		"platform":"Android",
+		"os":"2.1",
+		"width":"320",
+		"height":"240",
+		"date":"2010-06"
+	},
+	{
+		"device":"Motorola Milestone",
+		"platform":"Android",
+		"os":"2.3.7",
+		"width":"320",
+		"height":"569",
+		"date":"2009-11"
+	},
+	{
+		"device":"Motorola Moto G",
+		"platform":"Android",
+		"os":"4.3",
+		"width":"360",
+		"height":"598",
+		"date":"2013-11"
+	},
+	{
+		"device":"Motorola RAZR HD 4G",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"360",
+		"height":"598",
+		"date":"2012-09"
+	},
+	{
+		"device":"Motorola RAZR M 4G",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"360",
+		"height":"598",
+		"date":"2012-09"
+	},
+	{
+		"device":"Motorola RAZR MAXX",
+		"platform":"Android",
+		"os":"4.0",
+		"width":"360",
+		"height":"640",
+		"date":"2012-05"
+	},
+	{
+		"device":"Motorola Xoom",
+		"platform":"Android",
+		"os":"4.1",
+		"width":"800",
+		"height":"1280",
+		"date":"2011-05"
+	},
+	{
+		"device":"Motorola Xoom 2",
+		"platform":"Android",
+		"os":"3.2.2",
+		"width":"800",
+		"height":"1280",
+		"date":"2011-12"
+	},
+	{
+		"device":"Motorola Xoom 2 Media Edition",
+		"platform":"Android",
+		"os":"3.2.2",
+		"width":"800",
+		"height":"1280",
+		"date":"2011-12"
+	},
+	{
+		"device":"Nexus 10",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"800",
+		"height":"1280",
+		"date":"2012-11"
+	},
+	{
+		"device":"Nexus 4",
+		"platform":"Android",
+		"os":"4.2.1",
+		"width":"384",
+		"height":"598",
+		"date":"2012-11"
+	},
+	{
+		"device":"Nexus 5",
+		"platform":"Android",
+		"os":"4.4",
+		"width":"360",
+		"height":"598",
+		"date":"2013-10"
+	},
+	{
+		"device":"Nexus 7",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"603",
+		"height":"966",
+		"date":"2012-07"
+	},
+	{
+		"device":"Nexus 7",
+		"platform":"Android",
+		"os":"4.2.1",
+		"width":"600",
+		"height":"961",
+		"date":"2012-07"
+	},
+	{
+		"device":"Nexus 7",
+		"platform":"Android",
+		"os":"4.3",
+		"width":"601",
+		"height":"962",
+		"date":"2012-07"
+	},
+	{
+		"device":"Nexus 7 (LCD Density set to 175PPI)",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"731",
+		"height":"1170",
+		"date":"2012-07"
+	},
+	{
+		"device":"Nexus 7 (2013)",
+		"platform":"Android",
+		"os":"4.3",
+		"width":"600",
+		"height":"960",
+		"date":"2013-07"
+	},
+	{
+		"device":"Nexus One",
+		"platform":"Android",
+		"os":"2.3.7",
+		"width":"320",
+		"height":"533",
+		"date":"2010-01"
+	},
+	{
+		"device":"Nexus S",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"320",
+		"height":"533",
+		"date":"2010-10"
+	},
+	{
+		"device":"Nintendo 3DS",
+		"platform":"3DS",
+		"os":"4.3.0-10E",
+		"width":"416",
+		"height":"-",
+		"date":"2011-02"
+	},
+	{
+		"device":"Nintendo 3DS XL",
+		"platform":"3DS",
+		"os":"1.7455.EU",
+		"width":"416",
+		"height":"-",
+		"date":"2012-07"
+	},
+	{
+		"device":"Nintendo DSi",
+		"platform":"DSi",
+		"os":"507; U; en-GB",
+		"width":"256",
+		"height":"-",
+		"date":"2009-04"
+	},
+	{
+		"device":"Nintendo DSi XL",
+		"platform":"DSi",
+		"os":"1.4.4A",
+		"width":"240",
+		"height":"-",
+		"date":"2010-03"
+	},
+	{
+		"device":"Nintendo Wii",
+		"platform":"Wii",
+		"os":"4.3",
+		"width":"800",
+		"height":"-",
+		"date":"2007-11"
+	},
+	{
+		"device":"Nintendo Wii U",
+		"platform":"Wii U",
+		"os":"1.0.0.7494",
+		"width":"854",
+		"height":"-",
+		"date":"2012-11"
+	},
+	{
+		"device":"Nokia 2700",
+		"platform":"S40",
+		"os":"5th Edition",
+		"width":"240",
+		"height":"-",
+		"date":"2009-07"
+	},
+	{
+		"device":"Nokia Asha 300",
+		"platform":"Proprietary (Nokia)",
+		"os":"07.03 29-11-11 RM-781",
+		"width":"234",
+		"height":"-",
+		"date":"2011-11"
+	},
+	{
+		"device":"Nokia Asha 302",
+		"platform":"Proprietary (Nokia)",
+		"os":"14.53 20-03-12 RM-813",
+		"width":"314",
+		"height":"-",
+		"date":"2012-03"
+	},
+	{
+		"device":"Nokia 500",
+		"platform":"Symbian",
+		"os":"Belle",
+		"width":"360",
+		"height":"640",
+		"date":"2011-09"
+	},
+	{
+		"device":"Nokia 700 (Opera Mobile)",
+		"platform":"Symbian",
+		"os":"Belle FP2",
+		"width":"240",
+		"height":"427",
+		"date":"2011-09"
+	},
+	{
+		"device":"Nokia E61i",
+		"platform":"S60",
+		"os":"Symbian 9.1",
+		"width":"320",
+		"height":"-",
+		"date":"2007-04"
+	},
+	{
+		"device":"Nokia E71",
+		"platform":"S60",
+		"os":"Symbian 9.2",
+		"width":"320",
+		"height":"-",
+		"date":"2007-04"
+	},
+	{
+		"device":"Nokia Lumia 520",
+		"platform":"WP8",
+		"os":"8.0",
+		"width":"320",
+		"height":"480",
+		"date":"2013-04"
+	},
+	{
+		"device":"Nokia Lumia 610",
+		"platform":"WP7",
+		"os":"7.5",
+		"width":"320",
+		"height":"480",
+		"date":"2012-04"
+	},
+	{
+		"device":"Nokia Lumia 710",
+		"platform":"WP7",
+		"os":"7.5",
+		"width":"320",
+		"height":"480",
+		"date":"2011-12"
+	},
+	{
+		"device":"Nokia Lumia 720",
+		"platform":"WP7",
+		"os":"8.0",
+		"width":"320",
+		"height":"480",
+		"date":"2013-04"
+	},
+	{
+		"device":"Nokia Lumia 800",
+		"platform":"WP7",
+		"os":"7.5",
+		"width":"320",
+		"height":"480",
+		"date":"2011-11"
+	},
+	{
+		"device":"Nokia Lumia 820",
+		"platform":"WP8",
+		"os":"8.0",
+		"width":"320",
+		"height":"480",
+		"date":"2012-11"
+	},
+	{
+		"device":"Nokia Lumia 900",
+		"platform":"WP7",
+		"os":"7.5",
+		"width":"320",
+		"height":"480",
+		"date":"2012-05"
+	},
+	{
+		"device":"Nokia Lumia 920",
+		"platform":"WP8",
+		"os":"8.0",
+		"width":"320",
+		"height":"480",
+		"date":"2012-11"
+	},
+	{
+		"device":"Nokia Lumia 925",
+		"platform":"WP8",
+		"os":"8.0",
+		"width":"320",
+		"height":"480",
+		"date":"2013-06"
+	},
+	{
+		"device":"Nokia Lumia 1520",
+		"platform":"WP8",
+		"os":"8.0",
+		"width":"320",
+		"height":"480",
+		"date":"2013-11"
+	},
+	{
+		"device":"Nokia N9",
+		"platform":"MeeGo",
+		"os":"1.2",
+		"width":"320",
+		"height":"496",
+		"date":"2011-09"
+	},
+	{
+		"device":"Nokia N900",
+		"platform":"Maemo",
+		"os":"5",
+		"width":"480",
+		"height":"800",
+		"date":"2009-11"
+	},
+	{
+		"device":"Nokia N95",
+		"platform":"S60",
+		"os":"Symbian 9.2",
+		"width":"240",
+		"height":"-",
+		"date":"2007-03"
+	},
+	{
+		"device":"Palm Pixi",
+		"platform":"WebOS",
+		"os":"1.4.5",
+		"width":"320",
+		"height":"480",
+		"date":"2009-11"
+	},
+	{
+		"device":"Palm Pre",
+		"platform":"WebOS",
+		"os":"2.2",
+		"width":"320",
+		"height":"-",
+		"date":"2009-10"
+	},
+	{
+		"device":"Panasonic Toughpad FZ-A1",
+		"platform":"Android",
+		"os":"4.0",
+		"width":"768",
+		"height":"1024",
+		"date":"2012-12"
+	},
+	{
+		"device":"PendoPad 7&quot;",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"480",
+		"height":"800",
+		"date":"2013-11"
+	},
+	{
+		"device":"PendoPad 10&quot;",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"600",
+		"height":"1024",
+		"date":"2013-11"
+	},
+	{
+		"device":"Pioneer Dreambook",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"768",
+		"height":"1024",
+		"date":"2010-07"
+	},
+	{
+		"device":"Samsung Ativ S",
+		"platform":"WP8",
+		"os":"8.0",
+		"width":"320",
+		"height":"480",
+		"date":"2012-12"
+	},
+	{
+		"device":"Samsung E3210",
+		"platform":"Proprietary (Java)",
+		"os":"-",
+		"width":"128",
+		"height":"-",
+		"date":"2011-05"
+	},
+	{
+		"device":"Samsung Galaxy 5/Europa I5500",
+		"platform":"Android",
+		"os":"2.1-update1",
+		"width":"320",
+		"height":"427",
+		"date":"2010-08"
+	},
+	{
+		"device":"Samsung Galaxy Ace S5830",
+		"platform":"Android",
+		"os":"2.3.4",
+		"width":"320",
+		"height":"480",
+		"date":"2011-02"
+	},
+	{
+		"device":"Samsung Galaxy Ace 2 I8160",
+		"platform":"Android",
+		"os":"2.3.6",
+		"width":"320",
+		"height":"533",
+		"date":"2012-05"
+	},
+	{
+		"device":"Samsung Galaxy Ace Plus S7500",
+		"platform":"Android",
+		"os":"2.3.6",
+		"width":"320",
+		"height":"480",
+		"date":"2012-02"
+	},
+	{
+		"device":"Samsung Galaxy Beam I8530",
+		"platform":"Android",
+		"os":"2.3.6",
+		"width":"320",
+		"height":"533",
+		"date":"2012-07"
+	},
+	{
+		"device":"Samsung Galaxy Camera GC100",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"360",
+		"height":"598",
+		"date":"2012-11"
+	},
+	{
+		"device":"Samsung Galaxy Mini S5570",
+		"platform":"Android",
+		"os":"2.3.4",
+		"width":"240",
+		"height":"320",
+		"date":"2011-02"
+	},
+	{
+		"device":"Samsung Galaxy Mini 2 S6500",
+		"platform":"Android",
+		"os":"2.3",
+		"width":"320",
+		"height":"480",
+		"date":"2012-03"
+	},
+	{
+		"device":"Samsung Galaxy Note N700",
+		"platform":"Android",
+		"os":"2.3.6",
+		"width":"400",
+		"height":"640",
+		"date":"2011-10"
+	},
+	{
+		"device":"Samsung Galaxy Note 10.1 N8010",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"800",
+		"height":"1280",
+		"date":"2012-08"
+	},
+	{
+		"device":"Samsung Galaxy Note 10.1 N8010 (Multiscreen Enabled)",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"800",
+		"height":"637",
+		"date":"2012-08"
+	},
+	{
+		"device":"Samsung Galaxy Note 10.1 (2014 Edition) P600",
+		"platform":"Android",
+		"os":"4.3",
+		"width":"800",
+		"height":"1280",
+		"date":"2013-11"
+	},
+	{
+		"device":"Samsung Galaxy Note 2 N7100",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"360",
+		"height":"640",
+		"date":"2012-09"
+	},
+	{
+		"device":"Samsung Galaxy Note 3 N9005",
+		"platform":"Android",
+		"os":"4.3",
+		"width":"360",
+		"height":"640",
+		"date":"2013-09"
+	},
+	{
+		"device":"Samsung Galaxy Note 8.0 N5100",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"601",
+		"height":"962",
+		"date":"2013-04"
+	},
+	{
+		"device":"Samsung Galaxy Note 8.0 N5110",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"601",
+		"height":"962",
+		"date":"2013-04"
+	},
+	{
+		"device":"Samsung Galaxy S I9000",
+		"platform":"Android",
+		"os":"2.3.6",
+		"width":"320",
+		"height":"533",
+		"date":"2010-06"
+	},
+	{
+		"device":"Samsung Galaxy S Duos S7562",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"320",
+		"height":"533",
+		"date":"2012-09"
+	},
+	{
+		"device":"Samsung Galaxy S WiFi YPG70CW",
+		"platform":"Android",
+		"os":"2.2",
+		"width":"320",
+		"height":"533",
+		"date":"2011-05"
+	},
+	{
+		"device":"Samsung Galaxy S2 I9100",
+		"platform":"Android",
+		"os":"2.3.6",
+		"width":"320",
+		"height":"533",
+		"date":"2011-04"
+	},
+	{
+		"device":"Samsung Galaxy S3 I9300",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"360",
+		"height":"640",
+		"date":"2012-05"
+	},
+	{
+		"device":"Samsung Galaxy S3 Mini I8190",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"320",
+		"height":"533",
+		"date":"2012-11"
+	},
+	{
+		"device":"Samsung Galaxy S4 I9500",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"360",
+		"height":"640",
+		"date":"2013-04"
+	},
+	{
+		"device":"Samsung Galaxy S4 I9505",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"360",
+		"height":"640",
+		"date":"2013-04"
+	},
+	{
+		"device":"Samsung Galaxy S4 Active I9295",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"360",
+		"height":"640",
+		"date":"2013-06"
+	},
+	{
+		"device":"Samsung Galaxy S4 Mini I9190",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"360",
+		"height":"640",
+		"date":"2013-07"
+	},
+	{
+		"device":"Samsung Galaxy S4 Zoom SM-C105",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"360",
+		"height":"640",
+		"date":"2013-07"
+	},
+	{
+		"device":"Samsung Galaxy Tab 10.1 P7510",
+		"platform":"Android",
+		"os":"3.2",
+		"width":"800",
+		"height":"1280",
+		"date":"2011-07"
+	},
+	{
+		"device":"Samsung Galaxy Tab 2 10.1 P5110",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"800",
+		"height":"1280",
+		"date":"2012-05"
+	},
+	{
+		"device":"Samsung Galaxy Tab 2 7.0 P3110",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"600",
+		"height":"1024",
+		"date":"2012-05"
+	},
+	{
+		"device":"Samsung Galaxy Tab 3 7.0 T210",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"600",
+		"height":"1024",
+		"date":"2013-07"
+	},
+	{
+		"device":"Samsung Galaxy Tab 3 8.0 T310",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"602",
+		"height":"962",
+		"date":"2013-07"
+	},
+	{
+		"device":"Samsung Galaxy Tab 3 10.1 P5210",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"800",
+		"height":"1280",
+		"date":"2013-07"
+	},
+	{
+		"device":"Samsung Galaxy Tab 3 Kids T2105",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"600",
+		"height":"1024",
+		"date":"2013-11"
+	},
+	{
+		"device":"Samsung Galaxy Tab 7.7 P6810",
+		"platform":"Android",
+		"os":"3.2",
+		"width":"800",
+		"height":"1280",
+		"date":"2012-01"
+	},
+	{
+		"device":"Samsung Galaxy Tab 7.0 Plus P6210",
+		"platform":"Android",
+		"os":"3.2",
+		"width":"600",
+		"height":"1024",
+		"date":"2012-01"
+	},
+	{
+		"device":"Samsung Galaxy Tab 8.9 P7310",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"800",
+		"height":"1280",
+		"date":"2011-05"
+	},
+	{
+		"device":"Samsung Galaxy Tab 8.9 4G P7320",
+		"platform":"Android",
+		"os":"3.2",
+		"width":"800",
+		"height":"1280",
+		"date":"2012-02"
+	},
+	{
+		"device":"Samsung Galaxy Tab P1000",
+		"platform":"Android",
+		"os":"2.3.3",
+		"width":"400",
+		"height":"683",
+		"date":"2010-10"
+	},
+	{
+		"device":"Samsung Galaxy X Cover 2 S7710 ",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"320",
+		"height":"533",
+		"date":"2013-03"
+	},
+	{
+		"device":"Samsung Galaxy Y S5360",
+		"platform":"Android",
+		"os":"2.3.6",
+		"width":"320",
+		"height":"427",
+		"date":"2011-10"
+	},
+	{
+		"device":"Samsung Galaxy Young S6310",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"320",
+		"height":"480",
+		"date":"2013-02"
+	},
+	{
+		"device":"Samsung Infuse 4G I997",
+		"platform":"Android",
+		"os":"2.3",
+		"width":"320",
+		"height":"533",
+		"date":"2011-05"
+	},
+	{
+		"device":"Samsung Omnia W I8350",
+		"platform":"WP7",
+		"os":"7.5",
+		"width":"320",
+		"height":"480",
+		"date":"2011-10"
+	},
+	{
+		"device":"Samsung Omnia 7 I8700",
+		"platform":"WP7",
+		"os":"7.5",
+		"width":"320",
+		"height":"480",
+		"date":"2010-10"
+	},
+	{
+		"device":"Samsung Wave S8500",
+		"platform":"Bada",
+		"os":"1.0",
+		"width":"240",
+		"height":"400",
+		"date":"2010-04"
+	},
+	{
+		"device":"Samsung Wave S8500",
+		"platform":"Bada",
+		"os":"2.0.1",
+		"width":"320",
+		"height":"534",
+		"date":"2010-04"
+	},
+	{
+		"device":"Scroll Excel",
+		"platform":"Android",
+		"os":"2.3.4",
+		"width":"480",
+		"height":"800",
+		"date":"2012-02"
+	},
+	{
+		"device":"Sony BRAVIA 40 EX520",
+		"platform":"Proprietary (TV)",
+		"os":"PKG4.012GAA-0104",
+		"width":"-",
+		"height":"1920",
+		"date":"2011-01"
+	},
+	{
+		"device":"Sony Ericsson Elm",
+		"platform":"Proprietary (Java)",
+		"os":"1231-1917 R7CA061 100619",
+		"width":"240",
+		"height":"-",
+		"date":"2010-03"
+	},
+	{
+		"device":"Sony Ericsson Spiro",
+		"platform":"Proprietary (Java)",
+		"os":"-",
+		"width":"240",
+		"height":"-",
+		"date":"2010-08"
+	},
+	{
+		"device":"Sony Ericsson Xperia Arc",
+		"platform":"Android",
+		"os":"2.3.4",
+		"width":"320",
+		"height":"569",
+		"date":"2011-03"
+	},
+	{
+		"device":"Sony Ericsson Xperia Mini ST15i",
+		"platform":"Android",
+		"os":"2.3.4",
+		"width":"320",
+		"height":"401",
+		"date":"2011-08"
+	},
+	{
+		"device":"Sony Ericsson Xperia Neo",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"480",
+		"height":"854",
+		"date":"2011-03"
+	},
+	{
+		"device":"Sony Ericcson Xperia Play",
+		"platform":"Android",
+		"os":"2.3.4",
+		"width":"425",
+		"height":"974",
+		"date":"2011-03"
+	},
+	{
+		"device":"Sony Ericsson Xperia X8",
+		"platform":"Android",
+		"os":"2.1.1",
+		"width":"320",
+		"height":"480",
+		"date":"2010-09"
+	},
+	{
+		"device":"Sony Ericsson Xperia X10",
+		"platform":"Android",
+		"os":"2.3.3",
+		"width":"320",
+		"height":"569",
+		"date":"2010-03"
+	},
+	{
+		"device":"Sony PlayStation 3",
+		"platform":"PlayStation 3",
+		"os":"4.25",
+		"width":"-",
+		"height":"1824",
+		"date":"2006-11"
+	},
+	{
+		"device":"Sony PlayStation Portable",
+		"platform":"PlayStation Portable",
+		"os":"4.2",
+		"width":"-",
+		"height":"480",
+		"date":"2005-03"
+	},
+	{
+		"device":"Sony PlayStation Vita",
+		"platform":"PlayStation Vita",
+		"os":"1.00",
+		"width":"-",
+		"height":"896",
+		"date":"2012-02"
+	},
+	{
+		"device":"Sony Tablet P",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"-",
+		"height":"1024",
+		"date":"2012-09"
+	},
+	{
+		"device":"Sony Tablet S",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"800",
+		"height":"1280",
+		"date":"2011-09"
+	},
+	{
+		"device":"Sony VAIO Tap 20",
+		"platform":"Windows 8",
+		"os":"8.0",
+		"width":"900",
+		"height":"1600",
+		"date":"2013-06"
+	},
+	{
+		"device":"Sony Xperia acro S",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"360",
+		"height":"640",
+		"date":"2012-08"
+	},
+	{
+		"device":"Sony Xperia P",
+		"platform":"Android",
+		"os":"2.3.7",
+		"width":"360",
+		"height":"640",
+		"date":"2012-05"
+	},
+	{
+		"device":"Sony Xperia S",
+		"platform":"Android",
+		"os":"2.3.7",
+		"width":"360",
+		"height":"640",
+		"date":"2012-02"
+	},
+	{
+		"device":"Sony Xperia Sola",
+		"platform":"Android",
+		"os":"2.3.7",
+		"width":"320",
+		"height":"569",
+		"date":"2012-05"
+	},
+	{
+		"device":"Sony Xperia SP",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"360",
+		"height":"598",
+		"date":"2013-04"
+	},
+	{
+		"device":"Sony Xperia Tablet Z",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"800",
+		"height":"1280",
+		"date":"2013-05"
+	},
+	{
+		"device":"Sony Xperia Tipo",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"320",
+		"height":"480",
+		"date":"2012-08"
+	},
+	{
+		"device":"Sony Xperia U",
+		"platform":"Android",
+		"os":"2.3.7",
+		"width":"320",
+		"height":"569",
+		"date":"2012-05"
+	},
+	{
+		"device":"Sony Xperia V",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"360",
+		"height":"598",
+		"date":"2012-12"
+	},
+	{
+		"device":"Sony Xperia Z",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"360",
+		"height":"598",
+		"date":"2013-02"
+	},
+	{
+		"device":"Sony Xperia Z1",
+		"platform":"Android",
+		"os":"4.2.2",
+		"width":"360",
+		"height":"598",
+		"date":"2013-09"
+	},
+	{
+		"device":"Telstra T-Hub 2",
+		"platform":"Android",
+		"os":"2.3.7",
+		"width":"400",
+		"height":"683",
+		"date":"2012-07"
+	},
+	{
+		"device":"Tesco Hudl",
+		"platform":"Android",
+		"os":"4.2",
+		"width":"600",
+		"height":"799",
+		"date":"2013-09"
+	},
+	{
+		"device":"Toshiba AT100",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"800",
+		"height":"1280",
+		"date":"2011-07"
+	},
+	{
+		"device":"Toshiba AT1S0",
+		"platform":"Android",
+		"os":"3.2",
+		"width":"602",
+		"height":"961",
+		"date":"2012-02"
+	},
+	{
+		"device":"Toshiba AT200",
+		"platform":"Android",
+		"os":"3.2.1",
+		"width":"800",
+		"height":"1280",
+		"date":"2012-02"
+	},
+	{
+		"device":"Toshiba AT300",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"800",
+		"height":"1280",
+		"date":"2012-06"
+	},
+	{
+		"device":"Toshiba AT330",
+		"platform":"Android",
+		"os":"4.0.3",
+		"width":"900",
+		"height":"1600",
+		"date":"2012-07"
+	},
+	{
+		"device":"Wiko Cink Slim",
+		"platform":"Android",
+		"os":"4.1.1",
+		"width":"320",
+		"height":"533",
+		"date":"2012-11"
+	},
+	{
+		"device":"Yarvik Xenta Tab 8c",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"768",
+		"height":"1024",
+		"date":"2013-08"
+	},
+	{
+		"device":"XBOX 360",
+		"platform":"XBOX",
+		"os":"2.0",
+		"width":"-",
+		"height":"1050",
+		"date":"2005-11"
+	},
+	{
+		"device":"Xiaomi MI-3",
+		"platform":"Android",
+		"os":"4.2.1",
+		"width":"360",
+		"height":"640",
+		"date":"2013-09"
+	},
+	{
+		"device":"ZTE Open",
+		"platform":"FireFox OS",
+		"os":"1.0.0B01",
+		"width":"320",
+		"height":"415",
+		"date":"2013-07"
+	},
+	{
+		"device":"ZTE T22 (Telstra Urbane)",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"320",
+		"height":"533",
+		"date":"2012-08"
+	},
+	{
+		"device":"ZTE T28 (Telstra Active Touch)",
+		"platform":"Android",
+		"os":"2.3.5",
+		"width":"320",
+		"height":"533",
+		"date":"2011-05"
+	},
+	{
+		"device":"ZTE T760 (Telstra Smart-Touch 2)",
+		"platform":"Android",
+		"os":"2.3.5",
+		"width":"320",
+		"height":"480",
+		"date":"2012-02"
+	},
+	{
+		"device":"ZTE T790 (Telstra Pulse)",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"320",
+		"height":"480",
+		"date":"2013-05"
+	},
+	{
+		"device":"ZTE T81 (Telstra Frontier 4G)",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"320",
+		"height":"533",
+		"date":"2012-11"
+	},
+	{
+		"device":"ZTE T82 (Telstra Easy Touch 4G)",
+		"platform":"Android",
+		"os":"4.0.4",
+		"width":"360",
+		"height":"598",
+		"date":"2012-11"
+	},
+	{
+		"device":"ZTE T83 (Telstra Dave 4G)",
+		"platform":"Android",
+		"os":"4.1.2",
+		"width":"320",
+		"height":"534",
+		"date":"2013-10"
+	}
+]
+}

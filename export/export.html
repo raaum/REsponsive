@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="utf-8">
+<meta content="text/html" http-equiv="Content-Type">
+<head>
+<title>frog : responsive</title>
+
+<style type="text/css">
+body { margin: 0px; padding: 0px; }
+#website { background-color: #fff; border: 0px; margin: 0px; padding: 0px; }
+</style>
+
+<script type="text/javascript" language="javascript" src="../js/lib/jquery/dist/jquery.min.js"></script>
+
+
+<script>
+
+$(document).ready(function() {
+
+  // parse the query string
+  function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)");
+    var results = regex.exec(location.search);
+    return results === null ? " " : decodeURIComponent(results[1].replace(/\+/g, " "));
+  }
+
+  var url = getParameterByName("url");
+  var width = getParameterByName("width");
+  var height = getParameterByName("height");
+
+  $('#website').attr('src', url);
+  $('#website').attr({'width': width});
+  $('#website').attr({'height': height});
+});
+</script>
+
+</head>
+<body>
+
+<iframe id="website" class="website" frameborder="0" src="" width="350" height="800" scrollbars="auto"></iframe>
+
+</body>
+</html>
+

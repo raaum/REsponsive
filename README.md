@@ -1,2 +1,2 @@
-# REsponsive
-responsiveness testing
+# responsive
+Responsive website testing
