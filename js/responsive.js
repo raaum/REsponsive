@@ -1,17 +1,16 @@
-/*
+/*  
     REsponsive
     Copyright 2015 Greg Raaum
     by Greg Raaum <greg.raaum@yahoo.com>
-    Requires: jQuery 2+, DataTables 1+, jQuery Simple Slider
+    Requires: jQuery 2.1.1+, DataTables 1.10+, jQuery Simple Slider
 */
-
 /**
   * @summary     REsponsive
   * @description Application for testing and demonstrating web design responsiveness
   * @version     1.0b
   * @file        frog.responsive.js
   * @author      Greg Raaum <greg.raaum@yahoo.com>
-  * @contact     greg.raaum@yahoo.com
+  * @contact     @author
   * @copyright   Copyright 2015 Greg Raaum
 */
 
